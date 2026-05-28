@@ -12,8 +12,8 @@ Tenho foco profundo em performance, código limpo e soluções orientadas a reai
 
 <div align="center">
 
-<a src='https://www.linkedin.com/in/wictorcorreia/'>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wictor%20Correia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)</a>
-<a src='https://www.instagram.com/owictorr_/'>[![Instagram](https://img.shields.io/badge/Instagram-Wictor%20Correia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-INSTAGRAM)</a>
+<a src='https://www.linkedin.com/in/wictorcorreia/'>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wictor%20Correia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wictorcorreia)</a>
+<a src='https://www.instagram.com/owictorr_/'>[![Instagram](https://img.shields.io/badge/Instagram-Wictor%20Correia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/owictorr_)</a>
 
 </div>
 
